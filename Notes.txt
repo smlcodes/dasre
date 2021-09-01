@@ -1,0 +1,122 @@
+https://api.telegram.org/bot<token>/getUpdates
+
+Line No 169 
+
+Things to do
+--------------
+
+#1 N50_Insidebar_rk06
+-------------------------
+Bot Name	:	N50_Insidebar_rk06_bot
+Bot Token 	:	1683595470:AAHuPpsPrjrPIwRQg2yw9b8YQ9Sjd51BW00
+
+Group Name	:	100N_Insidebar_rk06_Channel
+Chat Id 	: 	-1001152418881
+
+https://api.telegram.org/bot1683595470:AAHuPpsPrjrPIwRQg2yw9b8YQ9Sjd51BW00/getUpdates
+
+$url = 'https://api.telegram.org/bot1683595470:AAHuPpsPrjrPIwRQg2yw9b8YQ9Sjd51BW00/sendMessage';
+$data = array('chat_id' => '-1001152418881', 'parse_mode' => 'html', 'text' => $msg);
+
+
+
+
+
+
+
+
+
+
+
+
+#2 N500_Insidebar_rk06
+-------------------------
+Bot Name	:	N500_Insidebar_rk06_bot
+Bot Token 	:	1876517100:AAH30ceo6NUibETJzs7KDvJ3A0u4oF2fMp8
+
+Group Name	:	500_Window_N_Insidebar_rk06_Channel
+Chat Id 	: 	-1001443064592
+
+https://api.telegram.org/bot1876517100:AAH30ceo6NUibETJzs7KDvJ3A0u4oF2fMp8/getUpdates
+
+
+$url = 'https://api.telegram.org/bot1876517100:AAH30ceo6NUibETJzs7KDvJ3A0u4oF2fMp8/sendMessage';
+$data = array('chat_id' => '-1001443064592', 'parse_mode' => 'html', 'text' => $msg);
+
+
+
+
+
+
+#3 Ncash_Insidebar_rk06
+-------------------------
+Bot Name	:	Ncash_Insidebar_rk06_bot
+Bot Token 	:	1872399377:AAEBa7qye8zPdlDyB9UDFFzmm15P7wlqMy4
+
+Group Name	:	CASH_N_Insidebar_rk06_Channel
+Chat Id 	: 	-1001171345662
+
+https://api.telegram.org/bot1872399377:AAEBa7qye8zPdlDyB9UDFFzmm15P7wlqMy4/getUpdates
+
+
+$url = 'https://api.telegram.org/bot1872399377:AAEBa7qye8zPdlDyB9UDFFzmm15P7wlqMy4/sendMessage';
+$data = array('chat_id' => '-1001171345662', 'parse_mode' => 'html', 'text' => $msg);
+
+
+
+
+
+#4 Daily_All_Insidebar_rk06
+-------------------------
+Bot Name	:	Daily_All_Insidebar_rk06_bot
+Bot Token 	:	1848370965:AAEcttPJ5DK9UXtPAMTVHbCm1rzZUeQ2FY4
+
+Group Name	:	Daily_All_Insidebar_rk06_Channel
+Chat Id 	: 	-1001329446647
+
+https://api.telegram.org/bot1848370965:AAEcttPJ5DK9UXtPAMTVHbCm1rzZUeQ2FY4/getUpdates
+
+$url = 'https://api.telegram.org/bot1848370965:AAEcttPJ5DK9UXtPAMTVHbCm1rzZUeQ2FY4/sendMessage';
+$data = array('chat_id' => '-1001329446647', 'parse_mode' => 'html', 'text' => $msg);
+
+
+
+
+
+
+Links
+-------------
+http://linkprotech.com/ink/N50_Insidebar_rk06.php
+http://linkprotech.com/ink/N500_Insidebar_rk06.php
+http://linkprotech.com/ink/Ncash_Insidebar_rk06.php
+http://linkprotech.com/ink/Daily_All_Insidebar_rk06.php
+
+
+
+
+
+
+
+
+
+
+http://insidebar.in/ravitejaapps/Daily_All_Insidebar_rk06.php 
+http://insidebar.in/ravitejaapps/Ncash_Insidebar_rk06.php 
+http://insidebar.in/ravitejaapps/N500_Insidebar_rk06.php 
+http://insidebar.in/ravitejaapps/N50_Insidebar_rk06.php 
+ 
+ 
+- Create 4 channels and bots. Names same for bots as well
+	- N100_Insidebar_rk06
+		-intra_N100_Buy
+		-intra_N50_Sell
+	- N500_Insidebar_rk06
+		-intra_N500_Buy			:	http://linkprotech.com/ink/N500_Insidebar_rk06.php
+		-Iwindow_All_Buy		:	http://linkprotech.com/ink/N500_Insidebar_rk06.php
+		-Iwindow+Dwindow		:	http://linkprotech.com/ink/N500_Insidebar_rk06.php
+	- Ncash_Insidebar_rk06
+		-intra_Cash_Buy			:	http://linkprotech.com/ink/Ncash_Insidebar_rk06.php
+	- Daily_All_Insidebar_rk06
+		-daily_All_Buy		:	http://linkprotech.com/ink/Daily_All_Insidebar_rk06.php
+		-Dwindow_All_Buy 	:	http://linkprotech.com/ink/Daily_All_Insidebar_rk06.php
+ 
