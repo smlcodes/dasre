@@ -34,7 +34,7 @@
         </div>
         <div class="ltn__call-to-4-img-1">
             <!-- <img src="img/bg/12.png" alt="#"> -->
-            <img src="img/slider/21.png" alt="#">
+            <img src="img/slider/66.png" alt="#">
         </div>
         <div class="ltn__call-to-4-img-2">
             <img src="img/bg/11.png" alt="#">
@@ -121,19 +121,18 @@
                 </div>
             </div>
         </div>
-        <div class="ltn__copyright-area ltn__copyright-2 section-bg-7  plr--5">
+        <div class="ltn__copyright-area ltn__copyright-2 section-bg-7  plr--5 ">
             <div class="container-fluid ltn__border-top-2">
                 <div class="row">
                     <div class="col-md-6 col-12">
                         <div class="ltn__copyright-design clearfix">
-                            <p>All Rights Reserved @ Company <span class="current-year"></span></p>
+                            <p>All Rights Reserved @ <a href="#">Dasre Investments</a> <span class="current-year"></span></p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12 align-self-center">
                         <div class="ltn__copyright-menu text-end">
                             <ul>
                                 <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Claim</a></li>
                                 <li><a href="#">Privacy & Policy</a></li>
                             </ul>
                         </div>

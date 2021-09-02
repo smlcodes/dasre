@@ -31,6 +31,51 @@
 	
 	
 	
+	
+	
+	    <!-- SLIDER AREA START (slider-4) -->
+    <div class="ltn__slider-area ltn__slider-4 position-relative ltn__primary-bg">
+        <div class="ltn__slide-one-active----- slick-slide-arrow-1----- slick-slide-dots-1----- arrow-white----- ltn__slide-animation-active">
+            
+            <!-- HTML5 VIDEO -->
+            <video autoplay muted loop id="myVideo"  style="position:fixed">
+                <source src="media/1.mp4" height="100%" width="100%" type="video/mp4">
+            </video>
+
+            <!-- YouTube VIDEO -->
+            <!-- <div class="ltn__youtube-video-background">
+                <iframe frameborder="0" height="100%" width="100%"
+                  src="https://www.youtube.com/embed/eySTo2GgvoY?playlist=eySTo2GgvoY&loop=1&controls=0&showinfo=0&autoplay=1&mute=1">
+                </iframe>
+            </div> -->
+
+            <!-- ltn__slide-item -->
+            <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-7 bg-image--- bg-overlay-theme-black-10---" data-bs-bg="img/slider/41.jpg">
+                <div class="ltn__slide-item-inner text-center">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 align-self-center">
+                                <div class="slide-item-info">
+                                    <div class="slide-item-info-inner ltn__slide-animation">
+                                        <h6 class="slide-sub-title white-color animated"><span><i class="fas fa-home"></i></span>Dasre Investments</h6>
+                                        <h1 class="slide-title text-uppercase white-color animated ">Find Your Dream <br> House By Us</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- SLIDER AREA END -->
+	
+	
+	
+	
+	
+	
+	
 
     <!-- SLIDER AREA START (slider-11) -->
     <div class="ltn__slider-area ltn__slider-11  ltn__slider-11-slide-item-count-show--- ltn__slider-11-pagination-count-show--- section-bg-1">
@@ -49,13 +94,13 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Dasre Investments</h6>
-                                            <h1 class="slide-title animated ">Welcome to <br><span>Dasre</span> Investments</h1>
-                                            <div class="slide-brief animated">
-                                                <p>We help our investors to explore and secure options for financial freedom using commercial real estate.</p>
+                                            <h6 class="slide-sub-title white-color animated"><span><i class="fas fa-home"></i></span> Dasre Investments</h6>
+                                            <h1 class="slide-title white-color animated ">Welcome to <br><span>Dasre</span> Investments</h1>
+                                            <div class="slide-brief white-color animated">
+                                                <p class="white-color">We help our investors to explore and secure options for financial freedom using commercial real estate.</p>
                                             </div>
                                             <div class="btn-wrapper animated">
-                                                <a href="about.html" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
+                                                <a href="contact.php" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
                                             </div>
                                         </div>
                                     </div>
@@ -81,14 +126,14 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Dasre Investments</h6>
-                                            <h1 class="slide-title animated ">Join Hands <br> <span>With Us </span></h1>
+                                            <h6 class="slide-sub-title white-color animated"><span><i class="fas fa-home"></i></span> Dasre Investments</h6>
+                                            <h1 class="slide-title white-color animated ">Join Hands <br> <span>With Us </span></h1>
                                             <div class="slide-brief animated">
                                                 <p></p>
                                             </div>
                                             <div class="btn-wrapper animated">
-                                                <a href="service.html" class="theme-btn-1 btn btn-effect-1">OUR SERVICES</a>
-                                                <a href="about.html" class="btn btn-transparent btn-effect-3">Potential Investor Form</a>
+                                                <a href="strategy.php" class="theme-btn-1 btn btn-effect-1">OUR SERVICES</a>
+                                                <a href="investmentform.php" class="btn btn-effect-3 btn-white">Potential Investor Form</a>
                                             </div>
                                         </div>
                                     </div>
@@ -113,14 +158,19 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Dasre Investments</h6>
-                                            <h1 class="slide-title animated ">We are Ready <br> to Help You</h1>
+                                            <h6 class="slide-sub-title white-color animated"><span><i class="fas fa-home"></i></span> Dasre Investments</h6>
+                                            <h1 class="slide-title white-color animated ">We are Ready <br> to Help You</h1>
                                             <div class="slide-brief animated">
                                                 <p></p>
                                             </div>
                                             <div class="btn-wrapper animated">
-                                                <a href="service.html" class="theme-btn-1 btn btn-effect-1">Contact Us</a>
-                                                <a href="about.html" class="btn btn-transparent btn-effect-3">Schedule Meeting</a>
+                                                <a href="contact.php" class="theme-btn-1 btn btn-effect-1">Contact Us</a>
+                                               <!-- <a href="about.php" class="btn btn-effect-3 btn-white">Schedule Meeting</a> -->
+											   						   <!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" class="btn btn-effect-3 btn-white" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/smlcodes/15min'});return false;">Schedule Meeting</a>
+<!-- Calendly link widget end -->
                                             </div>
                                         </div>
                                     </div>
@@ -191,7 +241,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 align-self-center">
+                 <div class="col-lg-6 align-self-center ltn__upcoming-project-item">
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-30">
                             <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">About Us</h6>
@@ -243,7 +293,7 @@
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center">
                         <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Strategy</h6>
-                        <h1 class="section-title">Our Investment Strategy</h1>
+                        <h1 class="section-title white-color">Our Investment Strategy</h1>
                     </div>
                 </div>
             </div>
@@ -255,7 +305,7 @@
                             <img src="img/icons/icon-img/21.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Multi-Family</a></h3>
+                            <h3><a href="strategy.php">Multi-Family</a></h3>
                             <p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
                              <a class="ltn__service-btn" href="strategy.php">Read More <i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -268,7 +318,7 @@
                             <img src="img/icons/icon-img/23.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Geographic Focus</a></h3>
+                            <h3><a href="strategy.php">Geographic Focus</a></h3>
                             <p>Our strategy is to purchase and appreciate these multifamily apartment complexes in the Southeast and Midwest.</p>
                              <a class="ltn__service-btn" href="strategy.php">Read More <i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -281,7 +331,7 @@
                             <img src="img/icons/icon-img/22.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Attractive Returns</a></h3>
+                            <h3><a href="strategy.php">Attractive Returns</a></h3>
                             <p>we strive for cash-on-cash returns of at least 10% and cap rates of 7-10%. This high return rate, coupled with the equity built over time.</p>
                             <a class="ltn__service-btn" href="strategy.php">Read More <i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -325,7 +375,7 @@
                                         <li>5. Total Investment: <span>$14,500,00</span></li>
                                     </ul>
                                     <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">View</a>
+                                        <a href="portfolio.php" class="theme-btn-1 btn btn-effect-1">View</a>
                                     </div>
                                 </div>
                             </div>
@@ -353,7 +403,7 @@
                                         <li>5. Total Investment: <span>$14,500,00</span></li>
                                     </ul>
                                     <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">View</a>
+                                        <a href="portfolio.php" class="theme-btn-1 btn btn-effect-1">View</a>
                                     </div>
                                 </div>
                             </div>
@@ -381,7 +431,7 @@
                                         <li>5. Total Investment: <span>$14,500,00</span></li>
                                     </ul>
                                     <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">View</a>
+                                        <a href="portfolio.php" class="theme-btn-1 btn btn-effect-1">View</a>
                                     </div>
                                 </div>
                             </div>
