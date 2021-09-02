@@ -39,7 +39,7 @@
             
             <!-- HTML5 VIDEO -->
             <video autoplay muted loop id="myVideo"  style="position:fixed">
-                <source src="media/1.mp4" height="100%" width="100%" type="video/mp4">
+                <source src="media/dasre.mp4" height="100%" width="100%" type="video/mp4">
             </video>
 
             <!-- YouTube VIDEO -->
@@ -368,7 +368,7 @@
                                     <h6 class="section-subtitle ltn__secondary-color mb-0">Our Portfolio</h6>
                                     <h1 class="mb-30"> Project #1 </h1>
                                     <ul class="mt">
-                                        <li>1. Project Name: <span>Quarter</span></li>
+                                        <li>1. Project Name: <span>Dasre</span></li>
                                         <li>2. Project Type: <span>Apartment / Home</span></li>
                                         <li>3. Building Location: <span>New York, USA</span></li>
                                         <li>4. No. Of Apartments: <span>568</span></li>
@@ -396,7 +396,7 @@
                                     <h6 class="ltn__secondary-color">Our Portfolio</h6>
                                     <h1> Project #2</h1>
                                     <ul>
-                                        <li>1. Project Name: <span>Quarter</span></li>
+                                        <li>1. Project Name: <span>Dasre</span></li>
                                         <li>2. Project Type: <span>Apartment / Home</span></li>
                                         <li>3. Building Location: <span>New York, USA</span></li>
                                         <li>4. No. Of Apartments: <span>568</span></li>
@@ -424,7 +424,7 @@
                                     <h6 class="ltn__secondary-color">Our Portfolio</h6>
                                     <h1>Project #3</h1>
                                     <ul>
-                                        <li>1. Project Name: <span>Quarter</span></li>
+                                        <li>1. Project Name: <span>Dasre</span></li>
                                         <li>2. Project Type: <span>Apartment / Home</span></li>
                                         <li>3. Building Location: <span>New York, USA</span></li>
                                         <li>4. No. Of Apartments: <span>568</span></li>

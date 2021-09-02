@@ -4,7 +4,10 @@
  <head>
 	
  <title>Dasre Investments - Contact</title>
-<?php include( 'header.php'); ?>
+<?php 
+session_start();
+include( 'header.php');
+ ?>
  <!-- ********** Header End ************************* -->
 
 
@@ -97,35 +100,51 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="input-item input-item-name ltn__custom-icon">
-                                        <input type="text" name="name" placeholder="Enter your name">
+                                        <input type="text" name="name" placeholder="Enter your name" required>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="input-item input-item-email ltn__custom-icon">
-                                        <input type="email" name="email" placeholder="Enter email address">
+                                        <input type="email" name="email" placeholder="Enter email address" required>
                                     </div>
                                 </div>
                     
                                 <div class="col-md-6">
                                     <div class="input-item input-item-phone ltn__custom-icon">
-                                        <input type="text" name="phone" placeholder="Enter phone number">
+                                        <input type="text" name="phone" placeholder="Enter phone number" required>
                                     </div>
                                 </div>
 								
 								<div class="col-md-6">
                                     <div class="input-item input-item-map ltn__custom-icon">
-                                        <input type="text" name="city" placeholder="Enter City">
+                                        <input type="text" name="city" placeholder="Enter City" required>
                                     </div>
                                 </div>
                             </div>
                             <div class="input-item input-item-textarea ltn__custom-icon">
-                                <textarea name="message" placeholder="Enter message"></textarea>
+                                <textarea name="message" placeholder="Enter message" required> </textarea>
                             </div>
                              
                             <div class="btn-wrapper mt-0">
                                 <button class="btn theme-btn-1 btn-effect-1 text-uppercase" type="submit">Sumbit</button>
                             </div>
-                            <p class="form-messege mb-0 mt-20"></p>
+							
+                          
+
+
+
+						  <p  class="need-support text-center">							
+								<?php
+											if(isset($_SESSION["mail"])){
+											echo "<h3>Thank You. We will get back to you Soon.</h3>";
+											$_SESSION["mail"] = null;
+										}  
+								 ?>
+							</p>
+
+
+
+
                         </form>
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 <?php
-
+session_start();
     // Only process POST reqeusts.
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Get the form fields and remove whitespace.
@@ -8,8 +8,8 @@
         $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
         $message = trim($_POST["message"]);
         $phone = trim($_POST["phone"]);
-        $fsubject = trim($_POST["subject"]);
-        $website = trim($_POST["website"]);
+        $fsubject = "DasreInvestments - Contact Form";
+        $city = trim($_POST["city"]);
 
         // Check that data was sent to the mailer.
         if ( empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -23,7 +23,7 @@
         // FIXME: Update this to your desired email address.
         // $recipient = "tunatheme@gmail.com";
         
-        $recipient = "tunatheme@gmail.com";
+        $recipient = "smlcodes@gmail.com";
 
         // Set the email subject.
         $subject = "New contact from $name";
@@ -33,7 +33,7 @@
         $email_content .= "Email: $email\n\n";
         $email_content .= "Phone: $phone\n\n";
         $email_content .= "Subject: $fsubject\n\n";
-        $email_content .= "Website: $website\n\n";
+        $email_content .= "city: $city\n\n";
         $email_content .= "Message:\n$message\n";
 
         // Build the email headers.
@@ -55,5 +55,10 @@
         http_response_code(403);
         echo "There was a problem with your submission, please try again.";
     }
+		
+		$_SESSION['mail'] = 'Yes';
+        echo "<script> location.href='contact.php'; </script>";
+        exit;
+ 
 
 ?>
