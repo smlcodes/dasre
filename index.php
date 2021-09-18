@@ -169,7 +169,7 @@
 											   						   <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" class="btn btn-effect-3 btn-white" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/smlcodes/15min'});return false;">Schedule Meeting</a>
+<a href="" class="btn btn-effect-3 btn-white" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/smlcodes/dasre-investments-appointment'});return false;">Schedule Meeting</a>
 <!-- Calendly link widget end -->
                                             </div>
                                         </div>

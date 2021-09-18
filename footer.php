@@ -24,7 +24,7 @@
 							<!-- Calendly link widget begin add -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" class="btn btn-transparent btn-effect-3 white-color" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/smlcodes/15min'});return false;">Schedule Meeting</a>
+<a href="" class="btn btn-transparent btn-effect-3 white-color" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/smlcodes/dasre-investments-appointment'});return false;">Schedule Meeting</a>
 <!-- Calendly link widget end -->
 							 
                         </div>
@@ -111,7 +111,7 @@
 											   <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href=""  onclick="Calendly.initPopupWidget({url: 'https://calendly.com/smlcodes/15min'});return false;">Schedule Meeting</a></li>
+<a href=""  onclick="Calendly.initPopupWidget({url: 'https://calendly.com/smlcodes/dasre-investments-appointment'});return false;">Schedule Meeting</a></li>
 <!-- Calendly link widget end -->
                                 </ul>
                             </div>
@@ -168,7 +168,7 @@
   <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/smlcodes/15min', text: 'Schedule Appointment', color: '#ff5a3c', textColor: '#ffffff', branding: false }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/smlcodes/dasre-investments-appointment', text: 'Schedule Appointment', color: '#ff5a3c', textColor: '#ffffff', branding: false }); }</script>
 <!-- Calendly badge widget end -->
   
   <!-- ********** MY OWN FOOTER END *********************************************************************************** -->
