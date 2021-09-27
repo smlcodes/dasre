@@ -16,7 +16,7 @@
                             <h1 class="section-title white-color">897-876-987-90</h1>
                         </div>
                         <div class="btn-wrapper">
-                            <a href="investmentform.php" class="theme-btn-1 btn btn-effect-1">Investor Form</a>
+                            <a href="https://www.cashflowportal.com/bio/7f9e94d60fdb4d1db9f999d3c6a0e092" class="theme-btn-1 btn btn-effect-1">Investor Connect</a>
                           
 							<!-- Add Class for <a link> of Candly
 							class="btn btn-transparent btn-effect-3 white-color"  -->					

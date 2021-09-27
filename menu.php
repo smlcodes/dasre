@@ -76,7 +76,9 @@
 										<li><a href="strategy.php">Investment Strategy</a></li>
 										<li><a href="portfolio.php">Portfolio</a></li>
 										<li><a href="investmentform.php">Potential Investor Form</a></li>								
-										<li><a href="contact.php">Contact</a></li>                                         
+										<li><a href="contact.php">Contact</a></li><li class="special-link">
+                                            <a href="https://www.cashflowportal.com/bio/7f9e94d60fdb4d1db9f999d3c6a0e092">Investor Connect</a>
+                                        </li>                                         
                                     </ul>
                                 </div>
                             </nav>
