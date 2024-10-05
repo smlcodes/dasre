@@ -15,3 +15,9 @@ Colors
 
 
 
+## Wordpress version
+Quarter v2.0.2 - Real Estate WordPress Theme
+https://www.wplocker.com/template/themeforest-themes/67613824-quarter-v202-real-estate-wordpress-theme.html
+Download: https://workupload.com/file/Ah2UVck8RbE
+
+
