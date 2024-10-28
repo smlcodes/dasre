@@ -38,16 +38,17 @@
         <div class="ltn__slide-one-active----- slick-slide-arrow-1----- slick-slide-dots-1----- arrow-white----- ltn__slide-animation-active">
             
             <!-- HTML5 VIDEO -->
-            <video autoplay muted loop id="myVideo"  style="position:fixed">
+            <!--  <video autoplay muted loop id="myVideo"  style="position:fixed">
                 <source src="media/dasre.mp4" height="100%" width="100%" type="video/mp4">
-            </video>
+            </video> -->
+
 
             <!-- YouTube VIDEO -->
-            <!-- <div class="ltn__youtube-video-background">
+             <div class="ltn__youtube-video-background">
                 <iframe frameborder="0" height="100%" width="100%"
-                  src="https://www.youtube.com/embed/eySTo2GgvoY?playlist=eySTo2GgvoY&loop=1&controls=0&showinfo=0&autoplay=1&mute=1">
+                  src="https://www.youtube.com/embed/TM9efX-yDMc?si=hnWmzMXBQevl_oBO?playlist=TM9efX-yDMc?si=hnWmzMXBQevl_oBO&loop=1&controls=0&showinfo=0&autoplay=1&mute=1">
                 </iframe>
-            </div> -->
+            </div> 
 
             <!-- ltn__slide-item -->
             <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-7 bg-image--- bg-overlay-theme-black-10---" data-bs-bg="img/slider/41.jpg">
