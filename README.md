@@ -10,6 +10,18 @@ index-2.html – Main
 file:///C:/xampp/htdocs/in/index-5.html
 
 
+
+
+
+# H1 -  Hosting Info
+Same as Fazay
+
+
+  Paths
+   /home/infrrazs
+ - dasreinvestments.com
+ - fazayit.com
+
 Colors
 #ff5a3c
 
